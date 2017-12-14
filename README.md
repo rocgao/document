@@ -6,4 +6,14 @@
 
 如果大家有什么其他地方可以稳定的放文件，欢迎提供哦！
 
+电子书资源好网址汇总：
+
+无需积分：
+
+1、http://www.java1234.com/
+
+需积分：
+
+1、http://download.csdn.net/download/luzle/9960038
+
 
