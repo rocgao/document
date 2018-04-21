@@ -1,19 +1,22 @@
-前端经典技术文档，后端也有，可以直接下载阅读
+## 前、后端经典技术文档
 
-欢迎大家下载分享、感激不尽
+**注意事项**
+1. 可以直接下载阅读
 
-最近发现个问题，上传的文件大小总计不能超过 1G，单个文件不能超过 25M，所以我尽量上传短小精悍的书籍
+2. 入选门槛：豆瓣评分 >= 8.0
 
-如果大家有什么其他地方可以稳定的放文件，欢迎提供哦！
+3. 单个文件不能超过 25M (Github 的限制)，文件总计大小不能超过 1G (后期尽量将 PDF 替换成 Gitbook)
 
-电子书资源好网址汇总：
+Gitbook:
 
-无需积分：
+1. [ECMAScript 6 标准入门](http://es6.ruanyifeng.com/)
 
-1、http://www.java1234.com/
+2. [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
-需积分：
+电子书资源网址汇总：
 
-1、http://download.csdn.net/download/luzle/9960038
+1. http://www.java1234.com/
+
+2. http://download.csdn.net/download/luzle/9960038 (需积分)
 
 
