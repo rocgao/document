@@ -16,14 +16,14 @@
 
 ## Specifications
 
-1. [W3C](https://www.w3.org/TR/)
+* [W3C](https://www.w3.org/TR/)
 
-2. [Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
+* [Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
 
-3. [层叠样式表2级修订版1（CSS 2.1）规范](http://www.ayqy.net/doc/css2-1/cover.html)
+* [层叠样式表2级修订版1（CSS 2.1）规范](http://www.ayqy.net/doc/css2-1/cover.html)
 
 ## 电子书资源网址汇总 ##
 
-1. http://www.java1234.com/
+* http://www.java1234.com/
 
-2. http://download.csdn.net/download/luzle/9960038 (需积分)
+* http://download.csdn.net/download/luzle/9960038 (需积分)
