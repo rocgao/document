@@ -1,17 +1,26 @@
-## 前、后端经典技术文档
+## 前、后端经典技术文档、规范
 
 **注意事项**
-1. 可以直接下载阅读
 
-2. 入选门槛：豆瓣评分 >= 8.0
+* 可以直接下载阅读
 
-3. 单个文件不能超过 25M (Github 的限制)，文件总计大小不能超过 1G (后期尽量将 PDF 替换成 Gitbook)
+* 入选门槛：豆瓣评分 >= 8.0
 
-## Gitbook ##
+* 单个文件不能超过 25M (Github 的限制)，文件总计大小不能超过 1G (后期尽量将 PDF 替换成 Gitbook)
 
-1. [ECMAScript 6 标准入门](http://es6.ruanyifeng.com/)
+## Gitbooks
 
-2. [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+* [ECMAScript 6 标准入门][http://es6.ruanyifeng.com/]
+
+* [You-Dont-Know-JS][https://github.com/getify/You-Dont-Know-JS]
+
+## Specifications
+
+1. [W3C][https://www.w3.org/TR/]
+
+2. [Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification][https://www.w3.org/TR/2011/REC-CSS2-20110607/]
+
+3. [层叠样式表2级修订版1（CSS 2.1）规范][http://www.ayqy.net/doc/css2-1/cover.html]
 
 ## 电子书资源网址汇总 ##
 
