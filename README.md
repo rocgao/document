@@ -1,4 +1,4 @@
-## 前、后端经典技术文档、规范
+## 规范、经典技术文档，前端为主
 
 **注意事项**
 
@@ -18,11 +18,15 @@
 
 * [W3C](https://www.w3.org/TR/)
 
+* [HTML](https://whatwg.org/)
+
+* [ECMAScript](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
+
 * [Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
 
 * [层叠样式表2级修订版1（CSS 2.1）规范](http://www.ayqy.net/doc/css2-1/cover.html)
 
-## 电子书资源网址汇总 ##
+## 资源网址 ##
 
 * http://www.java1234.com/
 
