@@ -8,11 +8,13 @@
 
 * 单个文件不能超过 25M (Github 的限制)，文件总计大小不能超过 1G (后期尽量将 PDF 替换成 Gitbook)
 
-## Gitbooks
+## e-book
 
 * [ECMAScript 6 标准入门](http://es6.ruanyifeng.com/)
 
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+
+* [Algorithms, 4th Edition](http://freecomputerbooks.com/Algorithms-4th-Edition-by-Robert-Sedgewick-and-Kevin-Wayne.html)
 
 ## Specifications
 
