@@ -14,7 +14,7 @@
 
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
-* [Algorithms, 4th Edition](http://freecomputerbooks.com/Algorithms-4th-Edition-by-Robert-Sedgewick-and-Kevin-Wayne.html)
+* [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/),  [For PDF](http://freecomputerbooks.com/Algorithms-4th-Edition-by-Robert-Sedgewick-and-Kevin-Wayne.html)
 
 ## Specifications
 
