@@ -16,6 +16,7 @@
 
 * [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/),  [For PDF](http://freecomputerbooks.com/Algorithms-4th-Edition-by-Robert-Sedgewick-and-Kevin-Wayne.html)
 
+* [High Performance Browser Networking](https://hpbn.co/)
 ## Specifications
 
 * [W3C](https://www.w3.org/TR/)
